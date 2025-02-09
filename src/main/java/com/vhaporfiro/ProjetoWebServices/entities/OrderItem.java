@@ -2,8 +2,8 @@ package com.vhaporfiro.ProjetoWebServices.entities;
 
 import java.io.Serializable;
 
-import com.vhaporfiro.ProjetoWebServices.entities.pk.OrderItemPK;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.vhaporfiro.ProjetoWebServices.entities.pk.OrderItemPK;
 
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
